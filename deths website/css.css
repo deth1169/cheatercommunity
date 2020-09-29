@@ -1,0 +1,102 @@
+.discord {
+   
+        position: relative;
+        top: 28%;
+        width: 10px;
+        text-align: center;
+        
+}
+
+.invite {
+    font-family: 'Mukta', sans-serif;
+    position: relative;
+    text-align: center;
+    top: 10%;
+    
+
+}
+
+.welcome    {
+    font-family: 'Mukta', sans-serif;
+    position: relative;
+    text-align: center;
+    top: 10%;
+    color: whitesmoke;
+    font-size: large;
+}
+
+.cfg {
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+    top: 20%;
+    position: relative;
+    transition-duration: 0.4s;
+    color: white;
+    border: none;
+    
+    
+
+
+
+  }
+
+  .szia {
+      color: whitesmoke;
+      font-size: medium;
+      text-decoration: none;
+  }
+  
+  .szia:hover {
+    background-color: purple; /* Green */
+    
+}
+
+
+
+
+.credits    {
+
+    position: relative;
+        top: 90%;
+        width: 100%;
+        text-align: center;
+        font-family: 'Mukta', sans-serif;
+        color: whitesmoke;
+        
+    
+}
+
+body {
+    background-color: rgb(31, 30, 29)
+  }
+
+  .h1   {
+    position: relative;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    color: whitesmoke;
+
+  }
+
+  .ok {
+    position: relative;
+    top: 70%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    
+
+  }
+
+  .back {
+      color: whitesmoke;
+      font-size: xx-large;
+      text-decoration: none;
+  }
+
+  .back:hover {
+    background-color: purple; /* Green */
+    
+}
